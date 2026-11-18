@@ -16,7 +16,7 @@ Desenvolvedor **full-stack** em São Paulo, com 10 meses de experiência em star
 
 ## Stack
 
-**Front-end:** TypeScript · React · Next.js · Tailwind CSS · TanStack Query
-**Back-end e dados:** Node.js · Express · API Routes do Next.js · PostgreSQL · Prisma · Zod
-**Testes e qualidade:** Vitest · Playwright · ESLint
-**Deploy e ferramentas:** Vercel · Git · GitHub
+- **Front-end:** TypeScript · React · Next.js · Tailwind CSS · TanStack Query
+- **Back-end e dados:** Node.js · Express · API Routes do Next.js · PostgreSQL · Prisma · Zod
+- **Testes e qualidade:** Vitest · Playwright · ESLint
+- **Deploy e ferramentas:** Vercel · Git · GitHub
